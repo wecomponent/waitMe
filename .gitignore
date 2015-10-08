@@ -1,0 +1,13 @@
+node_modules
+component_modules
+.DS_Store
+.idea
+bin
+output
+dist
+dest
+release
+build
+*.bak
+*.tmp
+Thumbs.db

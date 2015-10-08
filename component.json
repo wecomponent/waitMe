@@ -1,0 +1,17 @@
+{
+  "name": "waitMe",
+  "repo": "wecomponent/waitMe",
+  "description": "loading",
+  "version": "29.04.14",
+  "keywords": ["progress","bar","spinner"],
+  "development": {
+  },
+  "license": "MIT",
+  "main": "waitMe.js",
+  "scripts": [
+    "waitMe.js"
+  ],
+  "styles": [
+    "waitMe.css"
+  ]
+}
